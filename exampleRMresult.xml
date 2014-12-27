@@ -1,0 +1,1104 @@
+<results serviceId="test">
+<example-set>
+<example>
+<A>?</A>
+<B>?</B>
+<C>?</C>
+</example>
+<example>
+<A>1</A>
+<B>2</B>
+<C>3</C>
+</example>
+<example>
+<A>4</A>
+<B>5</B>
+<C>6</C>
+</example>
+</example-set>
+<example-set>
+<example>
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-1--endRow-6--endColumn-1->13</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-1--endRow-6--endColumn-1->
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-2--endRow-6--endColumn-2->?</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-2--endRow-6--endColumn-2->
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-3--endRow-6--endColumn-3->?</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-3--endRow-6--endColumn-3->
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-4--endRow-6--endColumn-4->?</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-4--endRow-6--endColumn-4->
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-5--endRow-6--endColumn-5->?</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-5--endRow-6--endColumn-5->
+<ExpandedReferenceRange--sheet-0--startRow-6--startColumn-6--endRow-6--endColumn-6->?</ExpandedReferenceRange--sheet-0--startRow-6--startColumn-6--endRow-6--endColumn-6->
+</example>
+</example-set>
+<example-set>
+<example>
+<Date>26/10/14 00:00</Date>
+<Num>2</Num>
+<txt>Hello</txt>
+</example>
+<example>
+<Date>23/11/14 00:00</Date>
+<Num>3</Num>
+<txt>2014. 11. 23</txt>
+</example>
+</example-set>
+<example-set>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.700</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.600</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.600</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3.900</Sepal-width>
+<Petal-length>1.700</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.600</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.400</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.100</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3.700</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.800</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.800</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.100</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.300</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.100</Petal-length>
+<Petal-width>0.100</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>4</Sepal-width>
+<Petal-length>1.200</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>4.400</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3.900</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>1.700</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.700</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.700</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.600</Sepal-length>
+<Sepal-width>3.600</Sepal-width>
+<Petal-length>1</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>1.700</Petal-length>
+<Petal-width>0.500</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.800</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.900</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.200</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.200</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.700</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.800</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.200</Sepal-length>
+<Sepal-width>4.100</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.100</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>4.200</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>1.200</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>3.600</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.100</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.400</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.500</Sepal-length>
+<Sepal-width>2.300</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.400</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>1.300</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.500</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.600</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>1.900</Petal-length>
+<Petal-width>0.400</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.800</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.300</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>1.600</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>4.600</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5.300</Sepal-length>
+<Sepal-width>3.700</Sepal-width>
+<Petal-length>1.500</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>1.400</Petal-length>
+<Petal-width>0.200</Petal-width>
+<Species>I. setosa</Species>
+</example>
+<example>
+<Sepal-length>7</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>4.700</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.900</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>4.900</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>2.300</Sepal-width>
+<Petal-length>4</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.500</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.600</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>4.700</Petal-length>
+<Petal-width>1.600</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>2.400</Sepal-width>
+<Petal-length>3.300</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.600</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.600</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.200</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>3.900</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>2</Sepal-width>
+<Petal-length>3.500</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.900</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.200</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>2.200</Sepal-width>
+<Petal-length>4</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.700</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>3.600</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>4.400</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>4.100</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.200</Sepal-length>
+<Sepal-width>2.200</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>3.900</Petal-length>
+<Petal-width>1.100</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.900</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>4.800</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>4.900</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.700</Petal-length>
+<Petal-width>1.200</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.300</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.600</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.400</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.800</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.800</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5</Petal-length>
+<Petal-width>1.700</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>2.600</Sepal-width>
+<Petal-length>3.500</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>2.400</Sepal-width>
+<Petal-length>3.800</Petal-length>
+<Petal-width>1.100</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>2.400</Sepal-width>
+<Petal-length>3.700</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>3.900</Petal-length>
+<Petal-width>1.200</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>1.600</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.400</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.600</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>4.700</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.300</Sepal-width>
+<Petal-length>4.400</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.100</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>4</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.500</Sepal-length>
+<Sepal-width>2.600</Sepal-width>
+<Petal-length>4.400</Petal-length>
+<Petal-width>1.200</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.600</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.600</Sepal-width>
+<Petal-length>4</Petal-length>
+<Petal-width>1.200</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5</Sepal-length>
+<Sepal-width>2.300</Sepal-width>
+<Petal-length>3.300</Petal-length>
+<Petal-width>1</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>4.200</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.200</Petal-length>
+<Petal-width>1.200</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.200</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.200</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>4.300</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.100</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>3</Petal-length>
+<Petal-width>1.100</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.100</Petal-length>
+<Petal-width>1.300</Petal-width>
+<Species>I. versicolor</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>6</Petal-length>
+<Petal-width>2.500</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>1.900</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.100</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.900</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.500</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.800</Petal-length>
+<Petal-width>2.200</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.600</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>6.600</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>4.900</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>4.500</Petal-length>
+<Petal-width>1.700</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.300</Sepal-length>
+<Sepal-width>2.900</Sepal-width>
+<Petal-length>6.300</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>5.800</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.200</Sepal-length>
+<Sepal-width>3.600</Sepal-width>
+<Petal-length>6.100</Petal-length>
+<Petal-width>2.500</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.500</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>5.300</Petal-length>
+<Petal-width>1.900</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.800</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.500</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.700</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>5</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>2.400</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>5.300</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.500</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.500</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.700</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>6.700</Petal-length>
+<Petal-width>2.200</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.700</Sepal-length>
+<Sepal-width>2.600</Sepal-width>
+<Petal-length>6.900</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>2.200</Sepal-width>
+<Petal-length>5</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.900</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>5.700</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.600</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.900</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.700</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>6.700</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>4.900</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>5.700</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.200</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>6</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.200</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>4.800</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.900</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.200</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.800</Petal-length>
+<Petal-width>1.600</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.400</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>6.100</Petal-length>
+<Petal-width>1.900</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.900</Sepal-length>
+<Sepal-width>3.800</Sepal-width>
+<Petal-length>6.400</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>2.200</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.800</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>1.500</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.100</Sepal-length>
+<Sepal-width>2.600</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>1.400</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>7.700</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>6.100</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>2.400</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.400</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>5.500</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>4.800</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.900</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>5.400</Petal-length>
+<Petal-width>2.100</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>5.600</Petal-length>
+<Petal-width>2.400</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.900</Sepal-length>
+<Sepal-width>3.100</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.800</Sepal-length>
+<Sepal-width>2.700</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>1.900</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.800</Sepal-length>
+<Sepal-width>3.200</Sepal-width>
+<Petal-length>5.900</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3.300</Sepal-width>
+<Petal-length>5.700</Petal-length>
+<Petal-width>2.500</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.700</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.200</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.300</Sepal-length>
+<Sepal-width>2.500</Sepal-width>
+<Petal-length>5</Petal-length>
+<Petal-width>1.900</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.500</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.200</Petal-length>
+<Petal-width>2</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>6.200</Sepal-length>
+<Sepal-width>3.400</Sepal-width>
+<Petal-length>5.400</Petal-length>
+<Petal-width>2.300</Petal-width>
+<Species>I. virginica</Species>
+</example>
+<example>
+<Sepal-length>5.900</Sepal-length>
+<Sepal-width>3</Sepal-width>
+<Petal-length>5.100</Petal-length>
+<Petal-width>1.800</Petal-width>
+<Species>I. virginica</Species>
+</example>
+</example-set>
+<service-parameters>
+<parameter>
+<key>include_service_parameters</key>
+<value>true</value>
+</parameter>
+<parameter>
+<key>include_query_parameters</key>
+<value>true</value>
+</parameter>
+</service-parameters>
+<query-parameters/>
+</results>
