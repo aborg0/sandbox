@@ -29,8 +29,39 @@
 	<script type="text/javascript" src="./barcodegenerator-jsdeps.min.js"></script>
     <!-- Run tutorial.webapp.TutorialApp -->
     <!-- button id="click-me-button" type="button" onclick="com.mind_era.barcodegenerator.DummyApp().addClickedMessage()">Click me!</button-->
+    <button id="download" type="button"></button>
     <script type="text/javascript">
       com.mind_era.barcodegenerator.DummyApp().main();
     </script>
+    <script type="text/javascript">
+    var btn = document.querySelector('button');
+var svg = document.querySelector('svg');
+var canvas = document.querySelector('canvas');
+
+function triggerDownload (imgURI) {
+  var evt = new MouseEvent('click', {
+    view: window,
+    bubbles: false,
+    cancelable: true
+  });
+
+  var a = document.createElement('a');
+  a.setAttribute('download', 'mcbarcode.svg');
+  a.setAttribute('href', imgURI);
+  a.setAttribute('target', '_blank');
+
+  a.dispatchEvent(evt);
+}
+
+btn.addEventListener('click', function () {
+  var data = (new XMLSerializer()).serializeToString(svg);
+  var DOMURL = window.URL || window.webkitURL || window;
+
+  var svgBlob = new Blob([data], {type: 'image/svg+xml;charset=utf-8'});
+  var url = DOMURL.createObjectURL(svgBlob);
+
+  triggerDownload(url);
+});
+</script>
   </body>
 </html>
